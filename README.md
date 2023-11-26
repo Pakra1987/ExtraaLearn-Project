@@ -19,21 +19,21 @@ The customer interacts with the marketing front on social media or other online 
    
 ## Data Dictionary
 
-### ID: ID of the lead
-### age: Age of the lead
-### current_occupation: Current occupation of the lead. Values include 'Professional','Unemployed',and 'Student'
-### first_interaction: How did the lead first interacted with ExtraaLearn. Values include 'Website', 'Mobile App'
-### profile_completed: What percentage of profile has been filled by the lead on the website/mobile app. Values include Low - (0-50%), Medium - (50-75%), High (75-100%)
-### website_visits: How many times has a lead visited the website
-### time_spent_on_website: Total time spent on the website
-### page_views_per_visit: Average number of pages on the website viewed during the visits.
-### last_activity: Last interaction between the lead and ExtraaLearn.
-### Email Activity: Seeking for details about program through email, Representative shared information with lead like brochure of program , etc
-### Phone Activity: Had a Phone Conversation with representative, Had conversation over SMS with representative, etc
-### Website Activity: Interacted on live chat with representative, Updated profile on website, etc
-### print_media_type1: Flag indicating whether the lead had seen the ad of ExtraaLearn in the Newspaper.
-### print_media_type2: Flag indicating whether the lead had seen the ad of ExtraaLearn in the Magazine.
-### digital_media: Flag indicating whether the lead had seen the ad of ExtraaLearn on the digital platforms.
-### educational_channels: Flag indicating whether the lead had heard about ExtraaLearn in the education channels like online forums, discussion threads, educational websites, etc.
-### referral: Flag indicating whether the lead had heard about ExtraaLearn through reference.
-### status: Flag indicating whether the lead was converted to a paid customer or not.
+1) ID: ID of the lead
+2) age: Age of the lead
+3) current_occupation: Current occupation of the lead. Values include 'Professional','Unemployed',and 'Student'
+4) first_interaction: How did the lead first interacted with ExtraaLearn. Values include 'Website', 'Mobile App'
+5) profile_completed: What percentage of profile has been filled by the lead on the website/mobile app. Values include Low - (0-50%), Medium - (50-75%), High (75-100%)
+6) website_visits: How many times has a lead visited the website
+7) time_spent_on_website: Total time spent on the website
+8) page_views_per_visit: Average number of pages on the website viewed during the visits.
+9) last_activity: Last interaction between the lead and ExtraaLearn.
+10) Email Activity: Seeking for details about program through email, Representative shared information with lead like brochure of program , etc
+11) Phone Activity: Had a Phone Conversation with representative, Had conversation over SMS with representative, etc
+12) Website Activity: Interacted on live chat with representative, Updated profile on website, etc
+13) print_media_type1: Flag indicating whether the lead had seen the ad of ExtraaLearn in the Newspaper.
+14) print_media_type2: Flag indicating whether the lead had seen the ad of ExtraaLearn in the Magazine.
+15) digital_media: Flag indicating whether the lead had seen the ad of ExtraaLearn on the digital platforms.
+16) educational_channels: Flag indicating whether the lead had heard about ExtraaLearn in the education channels like online forums, discussion threads, educational websites, etc.
+17) referral: Flag indicating whether the lead had heard about ExtraaLearn through reference.
+18) status: Flag indicating whether the lead was converted to a paid customer or not.
